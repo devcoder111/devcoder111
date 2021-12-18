@@ -1,6 +1,6 @@
 ## Hi 👋👋👋 Welcome to my profile.
 <p align="center">
-  <img src="https://github.com/devcoder111/devcoder111/raw/main/cover.png" />
+  <img src="https://github.com/devcoder111/devcoder111/raw/main/cover1.jpg" />
 </p>
 <span style="font-size: 10rem"><b>[ React.JS - Redux / Next.js / Vue.js / Angular / TypeScript / Node.js / Express ]</b></span>
 
